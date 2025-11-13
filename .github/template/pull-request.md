@@ -1,12 +1,3 @@
----
-name: "\U0001FABDfeat: "
-about: PR template
-title: ''
-labels: "\U0001FABD feature"
-assignees: ''
-
----
-
 (라벨 및 PR 제목은 기본적으로 feat로 설정되어 있으며, feat이 아닐 시 라벨 및 제목도 함께 변경 부탁드려요!)
 ## ☄️Pull Request
 이슈번호 #
@@ -20,7 +11,6 @@ assignees: ''
 |--------|--------|
 | 이미지 | 이미지 |
 
-<img src="" width="143" height="300"> 이미지 크기 참고
 > 📌 이미지가 없다면 이 섹션은 생략해도 됩니다.
 
 
